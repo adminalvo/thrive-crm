@@ -1,0 +1,11 @@
+[Runner] Polyfilled globalThis.fetch successfully.
+[Runner] Next.js CRM listening on 127.0.0.1:3005
+⚠️  Node.js 20 and below are deprecated and will no longer be supported in future versions of @supabase/supabase-js. Please upgrade to Node.js 22 or later. For more information, visit: https://github.com/orgs/supabase/discussions/45715
+node:internal/deps/undici/undici:5560
+      return await WebAssembly.instantiate(mod, {
+                               ^
+
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5560:32)
+
+Node.js v20.17.0

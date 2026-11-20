@@ -1,0 +1,47 @@
+[01-Sep-2026 19:40:24 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[01-Sep-2026 19:40:24 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[01-Sep-2026 19:40:24 UTC] PHP Fatal error:  Failed opening required '/home/btgdrqsh/crm.thrive.az/clean_crm.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in Unknown on line 0
+[08-Sep-2026 12:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4
+[08-Sep-2026 12:20:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4
+[08-Sep-2026 12:20:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4
+[08-Sep-2026 12:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4
+[08-Sep-2026 12:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4
+[08-Sep-2026 12:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4
+[08-Sep-2026 12:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4
+[08-Sep-2026 12:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4
+[08-Sep-2026 12:20:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4
+[08-Sep-2026 12:20:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4
+[08-Sep-2026 12:21:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apache_setenv() in /home/btgdrqsh/crm.thrive.az/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/btgdrqsh/crm.thrive.az/index.php on line 4

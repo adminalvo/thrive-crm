@@ -1,0 +1,18 @@
+RewriteEngine On
+RewriteBase /
+
+# Don't rewrite bridge.php
+RewriteRule ^bridge\.php$ - [L]
+RewriteRule ^index\.php$ - [L]
+
+# Route all other requests through index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# “ea-php82” paketini varsayılan “PHP” programlama dili olarak ayarlayın.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php82___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
